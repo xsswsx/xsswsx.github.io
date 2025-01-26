@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-01-26T10:31:00.525Z</updated>
+  <updated>2025-01-25T16:00:00.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,33 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2025/01/26/hello-world/"/>
-    <id>http://example.com/2025/01/26/hello-world/</id>
-    <published>2025-01-26T10:32:46.297Z</published>
-    <updated>2025-01-26T10:31:00.525Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>        <h2 id="Quick-Start"   >          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>              <h3 id="Create-a-new-post"   >          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Run-server"   >          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Generate-static-files"   >          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Deploy-to-remote-sites"   >          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
+    <title>青蓝色的青春病——《夏末白夜》</title>
     <link href="http://example.com/2025/01/26/%E9%9D%92%E8%93%9D%E8%89%B2%E7%9A%84%E9%9D%92%E6%98%A5%E7%97%85%E2%80%94%E2%80%94%E3%80%8A%E5%A4%8F%E6%9C%AB%E7%99%BD%E5%A4%9C%E3%80%8B/"/>
     <id>http://example.com/2025/01/26/%E9%9D%92%E8%93%9D%E8%89%B2%E7%9A%84%E9%9D%92%E6%98%A5%E7%97%85%E2%80%94%E2%80%94%E3%80%8A%E5%A4%8F%E6%9C%AB%E7%99%BD%E5%A4%9C%E3%80%8B/</id>
-    <published>2025-01-26T09:21:04.549Z</published>
-    <updated>2025-01-26T09:20:54.610Z</updated>
+    <published>2025-01-25T16:00:00.000Z</published>
+    <updated>2025-01-25T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight plaintext"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">title: 青蓝色的青春病——《夏末白夜》</span><br><span class="line">date: 2025/1/26</span><br><span class="line">updated: 2025/1/26</span><br><span class="line">categories:</span><br><span class="line">- [影子游评,国产AVG]</span><br></pre></td></tr></table></div></figure><p>（剧透警告）</p><p><strong>“所以……前辈，就算是骗我的也好…对我说一句，「我喜欢你」可以吗？”</strong></p><p>《夏末白夜》，6.7小时，全成就通关。</p><p>综合评价为：别问，问就是浪漫。</p><p>今天想把大的留到后面，故而先评剧情之外的其他。</p><p>首先UI和系统——我本以为renpy就是橙光编辑器那种从库里换换素材的引擎，没想到有这么高的可自定义程度；以及这个UI，太对味儿了！没有美学设计鉴赏功底真是抱歉，但这个UI给我一种现代、时尚感觉的同时又没有那种现充感。搜肠刮肚找不到形容词了，狠狠夸一句然后下一个。</p><p>然后作画——玩demo的时候略有一些塑料感，推正作的时候这种感觉消失了，但立绘和背景似乎是没有变过。立绘的质感的确很好（特别地，指丝），拉近的时候会有毛边但无伤大雅。CG的话，大部分主要CG是很好看的，但几张插入CG不知为何略有些欢乐谷效应，有种二次元人物本来就很大的眼睛又上了一个cos妆眼线的感觉。</p><p>随后音乐——bgm完美符合我对gal的想象，两首线尾主题曲又是能点了红心日常听的，大于常见网络歌手的好听程度，甚至听出一丝ChiliChill味道不知道是不是我的错觉。豪庭！我喜欢这个！</p><p>最后配音——主催说一开始没有准备做配音，角色诸多的长难句也证明了这一点。但不得不说cv的强大功底已经完成了90%的工作，剩下的都是一些“句开头别加语气词”、“现实感和二刺螈味儿的平衡”这些，作为配音爱好者的吹毛求疵了（音质还是最好统一一下www）。开始怀疑配音导演这个职位在gal制作当中究竟能带来多少提升。</p><p>这个怀疑，我自己其实是有答案的。推完之后，觉得这一作配音的确不需要配导。这不是个核心的问题，但涉及剧情和叙事的评价，就把它先留在这儿。</p><p>叙事和剧情——绝对好评，但去描述这种“好”，得废很多话。</p><p>因为是怪谈系，所以带着推理线预设的体验如下：</p><p>怎么上来就三个妹子贴？噢这个是青梅这个是白月光这个还没线……</p><p>贴成这样了都没爱上，男主你不是纯在装傻？！</p><p>这让她一个人去？！深刻遗憾到位，怪谈启动~</p><p>前三天要么担惊受怕要么在谈恋爱，第四天跟店长一句话把主线推爆了？！男主为什么要去咖啡店啊，作者把他推过去的吗？！</p><p>虽然“在虚拟作品里寻找现实感的人脑子肯定有问题”，但我所信奉的创作以及评价体系，的确要求“足够完整的想象”。我会想，男主被打了那么多近乎直球，为什么还能“大家一定把我们误解为兄妹关系”？他受过情伤所以在逃避吗？常夏一以贯之地渴望贴贴，为什么此前一年如此关注学业社团？学业社团的必须性是主动的还是被动的？</p><p>但当我推完，回头再想的时候（以及对着恋爱桥段发癫的时候），才发现自己看这部作品的视角有很严重的错误——推理“线”从一开始就不能本格地期待，人设、推理，这些东西都只是为浪漫搭建舞台的素材。用有限的资源搭建滴水不漏的舞台的确值得称赞，但当受限于物质的舞台本就不大时，为什么还要盯着它的地板？更何况它上面的演员，那份浪漫，是如此耀眼。 </p><p><strong>“承诺是真的，只是明天永远不会到来。”</strong></p><p><strong>“因为对你的熟悉，我愿意相信我已经死了。”</strong></p><p><strong>“想要偷走你记忆里的身边，变成你的青梅。”</strong>（Kanade你分明超会！！卧槽！我喜欢这个！你这个白毛どろぼ猫！！偷走青梅是可以的吗？！多偷点吧！！）</p><p>七个小时，不用大量设定去占用玩家的大脑，短短的篇幅和背景支撑起了这么多的浪漫，这也是我所说的“绝对好评”的来源。同时，“不需要配导”的原因也出现了，因为这就不是“日常支撑非日常”的结构。与其花力气抠日常交流的细节，不如让那些浪漫再多一些。</p><p>此外，虽然没有完整的角色构建，但作者用笔力写出的细节填补了很多角色形象。<strong>她家里有你一双拖鞋；说跟你掰手腕，结果手一转十指相扣关心起你的指甲……</strong>这些描写一下把现实感拉了起来。（但也正因如此，常夏实在太正宫了，很难想象奏线结尾她要怎么释怀TwT）</p><p>本作作为耐审王被卡着的时候曾和主催聊过两句，主催说跟其他怪谈系恋爱作对比可能有些失望，如今我的答案是——当然没有胜出，我也当然没有失望。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>（剧透警告）</p><p><strong>“所以……前辈，就算是骗我的也好…对我说一句，「我喜欢你」可以吗？”</strong></p><p>《夏末白夜》，6.7小时，全成就通关。</p><p>综合评价为：别问，问就是浪漫。</p><p>今天想把大的留到后面，故而先评剧情之外的其他。</p><p>首先UI和系统——我本以为renpy就是橙光编辑器那种从库里换换素材的引擎，没想到有这么高的可自定义程度；以及这个UI，太对味儿了！没有美学设计鉴赏功底真是抱歉，但这个UI给我一种现代、时尚感觉的同时又没有那种现充感。搜肠刮肚找不到形容词了，狠狠夸一句然后下一个。</p><p>然后作画——玩demo的时候略有一些塑料感，推正作的时候这种感觉消失了，但立绘和背景似乎是没有变过。立绘的质感的确很好（特别地，指丝），拉近的时候会有毛边但无伤大雅。CG的话，大部分主要CG是很好看的，但几张插入CG不知为何略有些欢乐谷效应，有种二次元人物本来就很大的眼睛又上了一个cos妆眼线的感觉。</p><p>随后音乐——bgm完美符合我对gal的想象，两首线尾主题曲又是能点了红心日常听的，大于常见网络歌手的好听程度，甚至听出一丝ChiliChill味道不知道是不是我的错觉。豪庭！我喜欢这个！</p><p>最后配音——主催说一开始没有准备做配音，角色诸多的长难句也证明了这一点。但不得不说cv的强大功底已经完成了90%的工作，剩下的都是一些“句开头别加语气词”、“现实感和二刺螈味儿的平衡”这些，作为配音爱好者的吹毛求疵了（音质还是最好统一一下www）。开始怀疑配音导演这个职位在gal制作当中究竟能带来多少提升。</p><p>这个怀疑，我自己其实是有答案的。推完之后，觉得这一作配音的确不需要配导。这不是个核心的问题，但涉及剧情和叙事的评价，就把它先留在这儿。</p><p>叙事和剧情——绝对好评，但去描述这种“好”，得废很多话。</p><p>因为是怪谈系，所以带着推理线预设的体验如下：</p><p>怎么上来就三个妹子贴？噢这个是青梅这个是白月光这个还没线……</p><p>贴成这样了都没爱上，男主你不是纯在装傻？！</p><p>这让她一个人去？！深刻遗憾到位，怪谈启动~</p><p>前三天要么担惊受怕要么在谈恋爱，第四天跟店长一句话把主线推爆了？！男主为什么要去咖啡店啊，作者把他推过去的吗？！</p><p>虽然“在虚拟作品里寻找现实感的人脑子肯定有问题”，但我所信奉的创作以及评价体系，的确要求“足够完整的想象”。我会想，男主被打了那么多近乎直球，为什么还能“大家一定把我们误解为兄妹关系”？他受过情伤所以在逃避吗？常夏一以贯之地渴望贴贴，为什么此前一年如此关注学业社团？学业社团的必须性是主动的还是被动的？</p><p>但当我推完，回头再想的时候（以及对着恋爱桥段发癫的时候），才发现自己看这部作品的视角有很严重的错误——推理“线”从一开始就不能本格地期待，人设、推理，这些东西都只是为浪漫搭建舞台的素材。用有限的资源搭建滴水不漏的舞台的确值得称赞，但当受限于物质的舞台本就不大时，为什么还要盯着它的地板？更何况它上面的演员，那份浪漫，是如此耀眼。 </p><p><strong>“承诺是真的，只是明天永远不会到来。”</strong></p><p><strong>“因为对你的熟悉，我愿意相信我已经死了。”</strong></p><p><strong>“想要偷走你记忆里的身边，变成你的青梅。”</strong>（Kanade你分明超会！！卧槽！我喜欢这个！你这个白毛どろぼ猫！！偷走青梅是可以的吗？！多偷点吧！！）</p><p>七个小时，不用大量设定去占用玩家的大脑，短短的篇幅和背景支撑起了这么多的浪漫，这也是我所说的“绝对好评”的来源。同时，“不需要配导”的原因也出现了，因为这就不是“日常支撑非日常”的结构。与其花力气抠日常交流的细节，不如让那些浪漫再多一些。</p><p>此外，虽然没有完整的角色构建，但作者用笔力写出的细节填补了很多角色形象。<strong>她家里有你一双拖鞋；说跟你掰手腕，结果手一转十指相扣关心起你的指甲……</strong>这些描写一下把现实感拉了起来。（但也正因如此，常夏实在太正宫了，很难想象奏线结尾她要怎么释怀TwT）</p><p>本作作为耐审王被卡着的时候曾和主催聊过两句，主催说跟其他怪谈系恋爱作对比可能有些失望，如今我的答案是——当然没有胜出，我也当然没有失望。</p>]]></content>
     
     
       
@@ -52,6 +32,10 @@
       
     
     
+    
+    <category term="影子游评" scheme="http://example.com/categories/%E5%BD%B1%E5%AD%90%E6%B8%B8%E8%AF%84/"/>
+    
+    <category term="国产AVG" scheme="http://example.com/categories/%E5%BD%B1%E5%AD%90%E6%B8%B8%E8%AF%84/%E5%9B%BD%E4%BA%A7AVG/"/>
     
     
   </entry>

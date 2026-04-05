@@ -22,5 +22,5 @@ http://example.com/2022/06/24/May-the-lilies-blossom%E2%80%94%E2%80%94%E3%80%8AE
 http://example.com/
 http://example.com/categories/%E5%BD%B1%E5%AD%90%E6%B8%B8%E8%AF%84/
 http://example.com/categories/%E5%BD%B1%E5%AD%90%E6%B8%B8%E8%AF%84/%E5%9B%BD%E4%BA%A7AVG/
-http://example.com/categories/%E5%BD%B1%E5%AD%90%E6%B8%B8%E8%AF%84/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/
 http://example.com/categories/%E6%9D%82%E6%96%87/
+http://example.com/categories/%E5%BD%B1%E5%AD%90%E6%B8%B8%E8%AF%84/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F/
